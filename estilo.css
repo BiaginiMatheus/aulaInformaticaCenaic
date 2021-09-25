@@ -1,0 +1,48 @@
+.imagem-redonda{
+    border: 3px solid gray;
+    border-radius: 50%;
+  }
+  
+  #cabecalho{
+    background-image: url("https://cdn.pixabay.com/photo/2020/04/12/20/37/abstract-5035778_1280.jpg");
+    background-size: cover;
+  }
+  
+  #cabecalho img{
+    width: 80px;
+    height: 80px;
+    display: block;
+    margin: auto;
+  }
+  
+  .secao{
+    border-radius: 10%;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color:  gray;
+  }
+  
+  #cabecalho p{
+    color: White;
+    font-weight: bold;
+    text-align: center;
+    font-size: 24pt;
+  }
+  
+  h1{
+    font-size: 15pt;
+    color: #FAEBD7;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+  }
+  
+  h1 span{
+    border: 4px solid red;
+  }
+  
+  
+  
+  
+  
